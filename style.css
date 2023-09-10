@@ -8,57 +8,11 @@ body {
     display: block;
 }
 
-h1 {
-    font-size: 59px;
-    font-weight: bolder;
-    color: #000;
-    display: block;
-    text-align: center;
-    text-transform: uppercase;
+.profile {
+    margin: 45px;
 }
 
-#slackDisplayImage {
-    position: relative;
-    width: 30%;
-    height: 30%;
-    margin: 0 29rem;
-}
-
-p {
-    font-size: 23px;
-    font-weight: bold;
-    color: #000;
-    display: block;
-    text-align: center;
-    
-}
-
-time {
-    font-size: 23px;
-    font-weight: bold;
-    color: #000;
-    display: block;
-    text-align: center;
-}
-
-button {
-    font-size: 23px;
-    font-weight: bold;
-    background: #000;
-    color: #fff;
-    display: block;
-    text-align: center;
-    margin: 0 37rem;
-    border-radius: 1rem;
-    padding: 10px; 
-    
-   
-     
-}
-
-button:hover:focus {
-    background-color: #ccc;
-    color: #000;
-    cursor: pointer;
-    
+img {
+    max-width: 150px;
+    border-radius: 50%;
 }
